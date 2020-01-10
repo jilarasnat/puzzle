@@ -1,7 +1,7 @@
 # Project Title :  puzzle game
 ### Batch NO : 16
 ### Mentor Name :Ms.V.KAMALA 
-### Github Link : 
+### Github Link : github.com/jilarasnat/puzzle/tree/master
 ### Team Details :
 | S.no  | Name  | Roll Number  | Email Id  |
 |-------|-------|--------------|-----------|
